@@ -1,10 +1,10 @@
 ---
-title: /Teaching
+title: /teaching
 layout: page
 permalink: /teaching
 ---
 
-# Teaching
+# teaching
 
 
 
