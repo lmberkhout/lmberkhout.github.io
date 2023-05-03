@@ -5,13 +5,13 @@ url: "https://b2a3e8.github.io"
 
 header_pages:
   - index.md
-  - peter.md
+  - Teaching.md
   - about.md
   - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: ''
 
 # Build settings
 markdown: kramdown
