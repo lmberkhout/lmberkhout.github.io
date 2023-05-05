@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 <p align="center">
-<img src="graphics/headshot.jpg" alt="Headshot" width=80 height=120 align="center">
+<img src="graphics/headshot.jpg" alt="Headshot" width=103 height=183 align="center">
 </p>
   
 <p align="center">
