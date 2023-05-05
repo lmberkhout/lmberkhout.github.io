@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <p align="center">
-<img src="graphics/IMG_6110.JPG" alt="HERA"  align="center">
+<img src="graphics/IMG_6110.JPG" alt="HERA"  align="center" width=551 height=368>
 </p>
   
 <p align="center">
