@@ -8,7 +8,8 @@ permalink: /
 </p>
   
 <p align="center">
-# Construction ongoing
+  
+  <b> Construction Ongoing </b>
   
 Hi, I'm Libby and this personal website is under development. 
 </p>
