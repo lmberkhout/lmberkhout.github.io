@@ -5,10 +5,10 @@ url: "https://lmberkhout.github.io"
 
 header_pages:
   - index.md
-  - Teaching.md
   - about.md
-  - contact.md
   - research.md
+  - Teaching.md
+  - contact.md
 
 style: dark
 
