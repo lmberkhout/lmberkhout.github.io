@@ -4,4 +4,11 @@ layout: page
 permalink: /contact
 ---
 
-<br /><br />(lmberkhout@asu.edu)
+<p align="center">
+  
+  <b> Contact Me </b>
+  
+You can reach me at lmberkhout@asu.edu
+  
+</p>
+
