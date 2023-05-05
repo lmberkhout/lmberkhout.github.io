@@ -8,7 +8,7 @@ permalink: /contact
   
   <b> Contact Me </b>
   
-You can reach me at lmberkhout@asu.edu
+You can reach me at: lmberkhout@asu.edu
   
 </p>
 
