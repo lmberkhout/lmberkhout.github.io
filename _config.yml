@@ -5,9 +5,8 @@ url: "https://lmberkhout.github.io"
 
 header_pages:
   - index.md
-  - about.md
   - research.md
-  - Teaching.md
+  - teaching.md
   - contact.md
 
 style: dark
