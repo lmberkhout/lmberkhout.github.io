@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <p align="center">
-<img src="https://github.com/lmberkhout/lmberkhout.github.io/blob/master/graphics/IMG_6110.JPG" alt="HERA"  width=551 height=368 align="center">
+<img src="graphics/IMG_6110.jpg" alt="HERA"  width=551 height=368 align="center">
 </p>
   
 <p align="center">
