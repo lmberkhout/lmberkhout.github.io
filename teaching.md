@@ -5,7 +5,7 @@ permalink: /teaching
 ---
 
 <p align="center">
-<img src="graphics/chart.jpeg" alt="chart"   align="center">
+<img src="graphics/chart.jpeg" alt="chart" width=80vw align="center">
 </p>
   
 <p align="center">
