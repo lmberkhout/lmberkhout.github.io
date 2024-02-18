@@ -47,7 +47,7 @@ HERA is an experiment targeting measurements of neutral hydrogen in the early un
 <p align="center">
   <figure>
 <img src="graphics/EoR.jpg" alt="timeline" width="80%" align="center">
- <figcaption> <em>  </em>  </figcaption>
+ <figcaption> <em> </em>  </figcaption>
 
   </figure>
   
