@@ -21,4 +21,6 @@ Hi, I'm Libby and I'm a PhD Candidate and NSF Graduate Research Fellow at Arizon
 [Github](https://github.com/lmberkhout)
 <br></br>
 [My CV](graphics/LibbyBerkhoutCV.pdf)
+<br></br>
+Contact me: [lmberkhout\@asu.edu](mailto:lmberkhout@asu.edu)
 
