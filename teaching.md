@@ -4,6 +4,12 @@ layout: page
 permalink: /teaching
 ---
 
+<p align="center">
+<img src="graphics/chart.jpeg" alt="chart"  width=551 height=368 align="center">
+</p>
+  
+<p align="center">
+  
 # Teaching
 
 I am an advisor at ASU of the [Completely Hackable Amateur Radio Telescope (CHART)](astrochart.github.io) project, which is an outreach project targeted at high school students and teachers and led by undergraduate students. The project is currently a collaboration between Winona State University and Arizona State University, but we are always looking for interested folks. 
