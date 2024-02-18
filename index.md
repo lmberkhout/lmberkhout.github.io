@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 <p align="center">
-<img src="graphics/headshot_2023-2.jpg" alt="Headshot" width=375 height=428 align="center">
+<img src="graphics/IMG_1422.jpg" alt="Headshot" width=375 height=428 align="center">
 </p>
   
 <p align="center">
