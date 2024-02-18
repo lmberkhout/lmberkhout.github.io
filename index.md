@@ -15,7 +15,10 @@ Hi, I'm Libby and I'm a PhD Candidate and NSF Graduate Research Fellow at Arizon
 </p>
 
 <b> Links: </b>
+<br></br>
 [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-2293-9639&sort=date+desc)
+<br></br>
 [Github](https://github.com/lmberkhout)
+<br></br>
 [My CV](graphics/LibbyBerkhoutCV.pdf)
 
