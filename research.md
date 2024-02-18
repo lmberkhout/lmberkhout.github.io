@@ -6,7 +6,7 @@ permalink: /research
 
 <p align="center">
   <figure>
-<img src="graphics/cosray.jpeg" alt="Cosray"  width=80% align="center">
+<img src="graphics/cosray.jpeg" alt="Cosray"  width="80%" align="center">
  <figcaption> <em> Cosmic ray monitors at Amundsen-Scott South Pole Station </em>  </figcaption>
 </p>
   </figure>
@@ -21,7 +21,7 @@ My research largely focuses on the radio science in the early universe, as well 
 
 <p align="center">
   <figure>
-<img src="graphics/IMG_6110.JPG" alt="HERA"  width=80% align="center">
+<img src="graphics/IMG_6110.JPG" alt="HERA"  width="80%" align="center">
  <figcaption> <em> An inside view of the HERA telescope </em>  </figcaption>
 </p>
   </figure>
@@ -33,7 +33,7 @@ HERA is an experiment targeting measurements of neutral hydrogen in the early un
 
 <p align="center">
   <figure>
-<img src="graphics/timeline.jpg" alt="timeline" width=80% align="center">
+<img src="graphics/timeline.jpg" alt="timeline" width="80%" align="center">
  <figcaption> <em> A timeline of the major cosmological epochs in the universe, from the big bang to modern day. Image via NAOJ/ NOAO. </em>  </figcaption>
 </p>
   </figure>
@@ -43,7 +43,7 @@ HERA is an experiment targeting measurements of neutral hydrogen in the early un
 
 <p align="center">
   <figure>
-<img src="graphics/EoR.jpg" alt="timeline" width=80% align="center">
+<img src="graphics/EoR.jpg" alt="timeline" width="80%" align="center">
  <figcaption> <em>  </em>  </figcaption>
 </p>
   </figure>
