@@ -16,8 +16,9 @@ SESE 411: Capstone II
 </p>
 <p>
 <b>Fall 2023 </b> 
-SESE 411: Capstone I 
 </p>
+SESE 411: Capstone I 
+
 
 
 
