@@ -10,11 +10,11 @@ I am an advisor at ASU of the [Completely Hackable Amateur Radio Telescope (CHAR
 
 ## Coursework 
 <br>
-TA Spring 2024:
+<b>TA Spring 2024:</b>
 <br>
 SESE 411: Senior Exploration Project II
 <br>
-TA Fall 2023 
+<b>TA Fall 2023 :</b>
 <br>
 SESE 410: Senior Exploration Project I
 
