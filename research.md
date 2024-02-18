@@ -6,6 +6,7 @@ permalink: /research
 
 <p align="center">
 <img src="graphics/cosray.jpeg" alt="Cosray"  width=551 height=368 align="center">
+  | *Cosmic ray monitors at Amundsen-Scott South Pole Station* |
 </p>
   
 <p align="center">
@@ -17,6 +18,7 @@ My research largely focuses on the radio science in the early universe, as well 
 
 <p align="center">
 <img src="graphics/IMG_6110.JPG" alt="HERA"  width=551 height=368 align="center">
+  | *An inside view of the HERA telescope* |
 </p>
   
 <p align="center">
