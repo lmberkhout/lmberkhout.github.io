@@ -10,7 +10,7 @@ permalink: /research
  <figcaption> <em> Cosmic ray monitors at Amundsen-Scott South Pole Station </em>  </figcaption>
 
   </figure>
-  
+ </p>
 <p align="center">
   
   <b> Research </b>
@@ -26,7 +26,7 @@ My research largely focuses on radio science in the early universe, as well as a
 <img src="graphics/IMG_6110.JPG" alt="HERA"  width="80%" align="center">
  <figcaption> <em> An inside view of the HERA telescope </em>  </figcaption>
   </figure>
-  
+ </p>
 <p align="center">
 
 <b> The Hydrogen Epoch of Reionization Array (HERA) </b> <br>
@@ -42,7 +42,7 @@ HERA is an experiment targeting measurements of neutral hydrogen in the early un
 
   </figure>
   
-
+ </p>
 
 <p align="center">
   <figure>
