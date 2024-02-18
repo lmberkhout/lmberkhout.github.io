@@ -7,7 +7,7 @@ permalink: /research
 <p align="center">
   <figure>
 <img src="graphics/cosray.jpeg" alt="Cosray"  width=551 height=368 align="center">
- <figcaption> Cosmic ray monitors at Amundsen-Scott South Pole Station <\figcaption>
+ <figcaption> Cosmic ray monitors at Amundsen-Scott South Pole Station </figcaption>
 </p>
   </figure>
   
