@@ -90,7 +90,7 @@ LightCube was a 1U educational CubeSat which had the goal of connecting the publ
 by producing a flash visible to the naked eye on command by a public user. The spacecraft could be triggered via HAM radio communications by those with an amateur license. Lightcube deployed from the International Space Station on April
 24th 2023 and operated for 24 hours before suffering a battery failure. During this time it was tracked by many amateurs around the world. Audio observations of the beacons were subsequently decoded by the student team and by amateurs. Having received many observations from
 around the world, the team has been able to reconstruct the sequence of events leading to loss
-of communications. I worked on the telemetry communications for the spacecraft. See a conference paper I wrote <a>href="https://events.gnuradio.org/event/21/contributions/434/attachments/130/295/Demodulation_demonstration_using_the_LightCube_CubeSat.pdf">here</a> and a talk I gave at GNURadioCon 2023 <a>href="https://www.youtube.com/watch?v=7144stK9Rmg&list=PLbBQHMnVMR41v81BfyV7RBZBDDttElW93&index=33">here</a>. 
+of communications. I worked on the telemetry communications for the spacecraft. See a conference paper I wrote <a href="https://events.gnuradio.org/event/21/contributions/434/attachments/130/295/Demodulation_demonstration_using_the_LightCube_CubeSat.pdf">here</a> and a talk I gave at GNURadioCon 2023 <a href="https://www.youtube.com/watch?v=7144stK9Rmg&list=PLbBQHMnVMR41v81BfyV7RBZBDDttElW93&index=33">here</a>. 
 
 
 
