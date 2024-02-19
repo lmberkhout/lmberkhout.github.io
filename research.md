@@ -62,10 +62,10 @@ HERA is an experiment targeting measurements of neutral hydrogen in the early un
 <p align="center">
   <figure>
     <center>
-<img src="graphics/gavrtjpg.jpg" alt="gavrt" width="80%" align="center">
-    </center>
+<img src="graphics/gavrtjpg.jpg" alt="gavrt" width="60%" align="center">
+    
  <figcaption> <em> The 34-meter Goldstone Apple Valley Radio Telescope. </em> </figcaption> 
-
+</center>
   </figure>
   
 </p>
@@ -80,9 +80,9 @@ The Goldstone Apple Valley Radio Telescope (GAVRT) program, a joint partnership 
   <figure>
     <center>
 <img src="graphics/PXL_20221213_201804519.jpeg" alt="gavrt" width="80%" align="center">
-    </center>
+   
  <figcaption> <em> The LightCube CubeSat on the lab bench </em> </figcaption> 
-
+  </center>
   </figure>
   
 </p>
