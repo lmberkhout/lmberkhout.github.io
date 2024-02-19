@@ -6,9 +6,10 @@ permalink: /research
 
 <div style="text-align: center;">
   <figure>
+    <center>
 <img src="graphics/cosray.jpeg" alt="Cosray"  width="80%" align="center">
  <figcaption> <em> Cosmic ray monitors at Amundsen-Scott South Pole Station </em>  </figcaption>
-
+    </center>
   </figure>
  </div>
  
@@ -40,16 +41,19 @@ HERA is an experiment targeting measurements of neutral hydrogen in the early un
 
 <p align="center">
   <figure>
+    <center>
 <img src="graphics/timeline.jpg" alt="timeline" width="80%" align="center">
  <figcaption> <em> A timeline of the major cosmological epochs in the universe, from the big bang to modern day. Image via NAOJ/ NOAO. </em>  </figcaption>
-
+  </center>
   </figure>
   
  </p>
 
 <p align="center">
   <figure>
+    <center>
 <img src="graphics/EoR.jpg" alt="timeline" width="80%" align="center">
+    </center>
  <figcaption> <em> </em>  </figcaption>
 
   </figure>
