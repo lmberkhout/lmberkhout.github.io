@@ -24,8 +24,10 @@ My research largely focuses on radio science in the early universe, as well as a
 
 <p align="center">
   <figure>
+     <center>
 <img src="graphics/IMG_6110.JPG" alt="HERA"  width="80%" align="center">
  <figcaption> <em> An inside view of the HERA telescope </em>  </figcaption>
+     </center>
   </figure>
  </p>
 <p align="center">
