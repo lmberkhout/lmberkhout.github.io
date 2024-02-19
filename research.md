@@ -67,13 +67,13 @@ HERA is an experiment targeting measurements of neutral hydrogen in the early un
   </figure>
   
 </p>
-
+<p align="center">
 <b> <a href="https://gavrt.lewiscenter.org/#">The Goldstone Apple Valley Radio Telescope (GAVRT)</a></b> <br>
-
+</p>
 The Goldstone Apple Valley Radio Telescope (GAVRT) program, a joint partnership between the Jet Propulsion Laboratory (JPL) and the Lewis Center for Education Research (LCER), operates a 34-meter retired DSN antenna as part of an outreach initiative. The program targets K-12 students to teach them about radio astronomy. Previous projects include targeted Jupiter observations, quasar variability, solar observations, SETI searches, and radio giant pulse observations. My project the ability to observe and decode transmissions from satellites and deep space missions.
-
+<p align="center">
 <b> <a href="https://lightcube.space/">LightCube</a></b> <br>
-
+</p>
 <p align="center">
   <figure>
     <center>
