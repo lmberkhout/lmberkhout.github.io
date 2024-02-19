@@ -8,7 +8,6 @@ permalink: /research
   <figure>
     <center>
 <img src="graphics/cosray.jpeg" alt="Cosray"  width="80%" align="center">
-      \vspace*{-5mm} 
  <figcaption> <em> Cosmic ray monitors at Amundsen-Scott South Pole Station </em>  </figcaption>
     </center>
   </figure>
