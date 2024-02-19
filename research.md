@@ -16,8 +16,6 @@ permalink: /research
 <p align="center">
   
   <b> Research </b>
-
- </p>
  
 My research largely focuses on radio science in the early universe, as well as a smattering of other radio instrumentation projects. I focus on instrument design and digital signal processing. This page is organized by project. 
 
