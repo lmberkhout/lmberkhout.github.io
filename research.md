@@ -4,13 +4,14 @@ title: /research
 permalink: /research
 ---
 
-<p align="center">
+<div style="text-align: center;">
   <figure>
 <img src="graphics/cosray.jpeg" alt="Cosray"  width="80%" align="center">
  <figcaption> <em> Cosmic ray monitors at Amundsen-Scott South Pole Station </em>  </figcaption>
 
   </figure>
- </p>
+ </div>
+ 
 <p align="center">
   
   <b> Research </b>
