@@ -12,7 +12,7 @@ permalink: /
   <b> About </b>
 </p>
   
-Hi, I'm Libby Berkhout and I'm a PhD Candidate and NSF Graduate Research Fellow at Arizona State University (ASU). I work in the <a href="loco.lab.asu.edu">Low Frequency Cosmology (LoCo) Lab</a> on radio science instrumentation, focusing on instruments for high redshift cosmology and space mission telecommunications. 
+Hi, I'm Libby Berkhout and I'm a Trottier Space Institue Postdoctoral Fellow at McGill University. I work in the <a href="https://sites.google.com/a/mcgillcosmology.ca/mcgillcosmology/">McGill Cosmology Instrumentation Laboratory</a> and the McGill Radio Lab on radio science instrumentation, focusing on instruments for cosmology. 
 
 
 <p align="center">
