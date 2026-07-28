@@ -1,5 +1,5 @@
 ---
-title: /
+title: About me- Libby Berkhout
 layout: home
 permalink: /
 ---
