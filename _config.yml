@@ -1,7 +1,8 @@
-title: 'lmberkhout.github.io'
-description: "."
-baseurl: "/"
+title: "About Me- Libby Berkhout"
+description: "Personal website for research, publications, and teaching."
+
 url: "https://lmberkhout.github.io"
+baseurl: ""
 
 header_pages:
   - index.md
@@ -9,9 +10,7 @@ header_pages:
   - teaching.md
 
 style: dark
+footer: ""
 
-footer: ''
-
-# Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
