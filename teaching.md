@@ -5,8 +5,8 @@ permalink: /teaching
 ---
 
 <div class="photo-row">
-<img src="graphics/teaching1.jpg" alt="chart">
-<img src="graphics/IMG_3894.jpeg" alt="chart">
+<img src="graphics/teaching1.jpg" alt="chart1">
+<img src="graphics/IMG_3894.jpeg" alt="chart2">
 </div>
 
 <p align="center">
