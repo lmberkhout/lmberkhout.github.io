@@ -1,5 +1,6 @@
 ---
-title: /teaching
+title: /teaching-and-outreach
+nav_title: "Teaching and Outreach"
 layout: page
 permalink: /teaching
 ---
@@ -11,9 +12,11 @@ permalink: /teaching
 
 <p align="center">
 
-<b> <u>Teaching</u> </b>
+<b> <u>Teaching and Outreach</u> </b>
 
-I am an advisor at ASU of the <a href="astrochart.github.io">Completely Hackable Amateur Radio Telescope (CHART)</a> project, which is an outreach project targeted at high school students and teachers and led by undergraduate students. The project is currently a collaboration between Winona State University and Arizona State University, but we are always looking for interested folks. See a paper we wrote on the project <a href="https://iopscience.iop.org/article/10.1088/1361-6552/ad0542">here</a>, as well as a talk I gave at GNURadioCon 2023 <a href="https://www.youtube.com/watch?v=LzkIl8sTvRY">here</a>. 
+The [Completely Hackable Amateur Radio Telescope (CHART)](https://astrochart.github.io) project is an undergraduate-led outreach initiative that brings hands-on radio astronomy to the wider community. Participants build their own low-cost radio telescope using off the shelf components capable of detecting 21-cm hydrogen emission from the Milky Way. The project emphasizes accessibility-- all software, documentation, and tutorials are fully open source, and the total build cost is kept under $200 so it's approachable for classrooms. The project is suitable for students at the high school or undergraduate level, and has been successfully incorporated into classrooms at a number of institutions. CHART is a collaboration between Winona State University, McGill University, and Arizona State University, and we're always looking for new students, educators, or collaborators to get involved. To learn more please visit the linked website or contact me.
+
+You can also read more in our published paper [here](https://iopscience.iop.org/article/10.1088/1361-6552/ad0542), or watch a talk I gave on the project at GNURadioCon 2023 [here](https://www.youtube.com/watch?v=LzkIl8sTvRY).
 
 <b> Coursework </b>
 <br>
@@ -23,5 +26,3 @@ SESE 411: Senior Exploration Project II
 <b>TA Fall 2023 :</b>
 <br>
 SESE 410: Senior Exploration Project I
-
-
