@@ -1,6 +1,6 @@
 ---
 title: /teaching-and-outreach
-nav_title: "Teaching and Outreach"
+nav_title: "/teaching & outreach"
 layout: page
 permalink: /teaching
 ---
