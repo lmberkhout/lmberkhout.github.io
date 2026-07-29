@@ -7,28 +7,24 @@ permalink: /
 <div class="homepage">
 
 <div class="photo">
-
-<img src="graphics/IMG_7184.jpg" alt="Libby Berkhout">
-
+<img src="graphics/IMG_7184.jpg" alt="Headshot">
 </div>
 
 <div class="bio">
 
-# Libby Berkhout
+## About
 
-Trottier Space Institute Postdoctoral Fellow  
-**McGill University**
+Hi, I'm Libby Berkhout and I'm a Trottier Space Institute Postdoctoral Fellow at McGill University.
 
-I work in the McGill Cosmology Instrumentation Laboratory and the McGill Radio Lab on radio science instrumentation, with a focus on instrumentation for observational cosmology.
+I work in the McGill Cosmology Instrumentation Laboratory and the McGill Radio Lab on radio science instrumentation, focusing on instruments for cosmology.
 
-### Links
+## Links
 
-- [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-2293-9639&sort=date+desc)
-- [GitHub](https://github.com/lmberkhout)
-- [Curriculum Vitae](graphics/LibbyBerkhoutCV.pdf)
+<a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-2293-9639&sort=date+desc">NASA ADS</a><br>
+<a href="https://github.com/lmberkhout">Github</a><br>
+<a href="graphics/LibbyBerkhoutCV.pdf">My CV</a><br>
 
-**Email:**  
-<libby.berkhout@mcgill.ca>
+Contact me: <a href="mailto:libby.berkhout@mcgill.ca">libby.berkhout@mcgill.ca</a>
 
 </div>
 
