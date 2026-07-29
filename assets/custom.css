@@ -33,3 +33,24 @@
         width: 250px;
     }
 }
+
+/* Side-by-side teaching photos */
+.photo-row {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 1rem 0;
+}
+
+.photo-row img {
+    width: 45%;
+    height: auto;
+}
+
+@media (max-width: 800px) {
+    .photo-row img {
+        width: 90%;
+    }
+}
