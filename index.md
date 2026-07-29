@@ -1,10 +1,9 @@
 ---
- title: "About Me- Libby Berkhout"
-+nav_title: "Home"
- layout: home
- permalink: /
- ---
-
+title: "About Me- Libby Berkhout"
+nav_title: "Home"
+layout: home
+permalink: /
+---
 <div class="homepage" markdown="1">
 
 <div class="photo">
