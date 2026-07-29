@@ -4,13 +4,13 @@ layout: home
 permalink: /
 ---
 
-<div class="homepage">
+<div class="homepage" markdown="1">
 
 <div class="photo">
 <img src="graphics/IMG_7184.jpg" alt="Headshot">
 </div>
 
-<div class="bio">
+<div class="bio" markdown="1">
 
 ## About
 
