@@ -10,7 +10,7 @@ permalink: /teaching
 <img src="graphics/IMG_3894.jpeg" alt="chart2">
 </div>
 
-<p align="center">
+<p align="center" markdown="1">
 
 <b> <u>Teaching and Outreach</u> </b>
 
@@ -26,3 +26,5 @@ SESE 411: Senior Exploration Project II
 <b>TA Fall 2023 :</b>
 <br>
 SESE 410: Senior Exploration Project I
+
+</p>
