@@ -4,10 +4,14 @@ nav_title: "/teaching & outreach"
 layout: page
 permalink: /teaching
 ---
-
 <div class="photo-row">
+<figure>
 <img src="graphics/teaching1.jpg" alt="chart1">
+<figcaption>The Completely Hackable Amateur Radio Telescope (CHART) </figcaption>
+</figure>
+<figure>
 <img src="graphics/IMG_3894.jpeg" alt="chart2">
+</figure>
 </div>
 
 <p align="center" markdown="1">
