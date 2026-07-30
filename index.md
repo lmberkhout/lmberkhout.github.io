@@ -15,8 +15,7 @@ permalink: /
 ## About
 
 Hi, I'm Libby Berkhout and I'm a Trottier Space Institute Postdoctoral Fellow at McGill University.
-
-I work in the McGill Cosmology Instrumentation Laboratory and the McGill Radio Lab on radio science instrumentation, focusing on instruments for cosmology.
+I build instruments that let us listen to the very early universe at radio wavelengths. My work sits at the intersection of radio astronomy and instrumentation. Currently I'm working on CHORD, a next-generation radio telescope at the Dominion Radio Astrophysical Observatory. <a href="/research"> Learn More here. →</a>
 
 ## Links
 
