@@ -8,7 +8,7 @@ permalink: /research
   <figure>
     <center>
 <img src="graphics/cosray.jpeg" alt="Cosray"  width="80%" align="center">
- <figcaption> <em> Cosmic ray monitors at Amundsen-Scott South Pole Station </em>  </figcaption>
+ <figcaption> <em> My research in astronomy instrumentation takes me to a wide variety of locations, including as remote as the Amundsen-Scott South Pole Station </em>  </figcaption>
     </center>
   </figure>
  </div>
@@ -17,8 +17,6 @@ permalink: /research
   
   <b> Research </b>
  
-My research largely focuses on radio science in the early universe, as well as a smattering of other radio instrumentation projects. I focus on instrument design and digital signal processing. This page is organized by project. 
-
 <p align="center">
   <figure>
      <center>
