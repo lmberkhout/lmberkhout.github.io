@@ -22,13 +22,34 @@ The [Completely Hackable Amateur Radio Telescope (CHART)](https://astrochart.git
 
 You can also read more in our published paper [here](https://iopscience.iop.org/article/10.1088/1361-6552/ad0542), or watch a talk I gave on the project at GNURadioCon 2023 [here](https://www.youtube.com/watch?v=LzkIl8sTvRY).
 
-<b> Coursework </b>
-<br>
-<b>TA Spring 2024:</b> <br>
-SESE 411: Senior Exploration Project II
-<br/><br/>
-<b>TA Fall 2023 :</b>
-<br>
-SESE 410: Senior Exploration Project I
+<b><u>Teaching</u></b>
+<br><br>
 
-</p>
+<b>Guest Instructor, Fall 2025:</b> <br>
+PHYS182 - Our Evolving Universe, McGill University <br>
+Developed and taught 5 lectures for an introductory astronomy course at McGill on the topics of the Electromagnetic Spectrum, Telescopes, and the Dark Sector.
+<br/><br/>
+
+<b>ALPHA Immersion Instructor, Summer 2025 &amp; 2026:</b> <br>
+Advanced Laboratory Physics Association <br>
+The ALPHA association offers advanced laboratory immersions for undergraduate educators. Led an immersion in 2025 and 2026, teaching undergraduate instructors an advanced radio astronomy lab.
+<br/><br/>
+
+<b>Workshop Instructor, Summer 2022 &amp; 2025:</b> <br>
+Winona State University <br>
+Co-led and taught a week long workshop for middle and high school educators on building and operating a low cost radio telescope.
+<br/><br/>
+
+<b>TA, Fall &amp; Spring 2023:</b> <br>
+SESE 410: Senior Exploration Project I, Arizona State University <br>
+Capstone course for seniors in the School of Earth and Space Exploration, in which students work in teams to plan and complete a research project.
+<br/><br/>
+
+<b>Lead Developer &amp; Teacher, Spring 2023:</b> <br>
+Radio Astronomy Bootcamp, Arizona State University <br>
+Developed and taught a weeklong evening class in the Spring semester, free for undergraduate students. Spring 2023 had over 30 students attend.
+<br/><br/>
+
+<b>TA, Spring 2019:</b> <br>
+ASTR 13300: Introduction to Astrophysics, The University of Chicago <br>
+Introductory course for Astrophysics majors.
