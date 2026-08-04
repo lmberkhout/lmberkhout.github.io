@@ -16,11 +16,21 @@ permalink: /research
 <p align="center">
   
   <b> Research </b>
- 
 <p align="center">
   <figure>
      <center>
-<img src="graphics/IMG_6110.JPG" alt="HERA"  width="80%" align="center">
+<img src="graphics/DJI_0282.JPG
+" alt="CHORD"  width="80%" align="center">
+ <figcaption> <em> CHORD </em>  </figcaption>
+     </center>
+  </figure>
+ </p>
+<p align="center">
+
+<p align="center">
+  <figure>
+     <center>
+<img src="graphics/HERA.jpg" alt="HERA"  width="80%" align="center">
  <figcaption> <em> An inside view of the HERA telescope </em>  </figcaption>
      </center>
   </figure>
