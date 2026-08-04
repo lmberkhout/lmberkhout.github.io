@@ -1,6 +1,6 @@
 ---
 title: "About Me- Libby Berkhout"
-nav_title: "Home"
+nav_title: "/home"
 layout: home
 permalink: /
 ---
