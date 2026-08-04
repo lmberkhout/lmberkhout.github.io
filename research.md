@@ -16,6 +16,11 @@ permalink: /research
 <p align="center">
   
   <b> Research </b>
+
+  \section{Research Interests}
+
+I build instruments that let us listen to the very early universe at radio wavelengths. My research sits at the intersection of radio astronomy and instrumentation, and focuses on the design, calibration, and commissioning of radio interferometers for 21-cm cosmology and transient astronomy, with an emphasis on instrumentation that improves data quality. My current work on the Canadian Hydrogen Observatory and Radio Transient Detector (CHORD) spans real-time radio-frequency interference (RFI) detection and mitigation, as well as the use of Global Navigation Satellite System (GNSS) satellites to map the beams of our telescopes. I also have prior instrumentation experience with the Hydrogen Epoch of Reionization Array, the Goldstone Apple Valley Radio Telescope Deep Space Network education telescope, and the LightCube CubeSat mission.
+
 <p align="center">
   <figure>
      <center>
