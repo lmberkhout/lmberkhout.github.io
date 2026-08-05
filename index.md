@@ -7,7 +7,7 @@ permalink: /
 <div class="homepage" markdown="1">
 
 <div class="photo">
-<img src="graphics/IMG_7184.jpg" alt="Headshot">
+<img src="graphics/libby_Teaching.jpg" alt="Headshot">
 </div>
 
 <div class="bio" markdown="1">
