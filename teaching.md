@@ -5,8 +5,8 @@ layout: page
 permalink: /teaching
 ---
 <figure class="photo-row">
-  <img src="graphics/teaching1.jpg" alt="chart1">
-  <img src="graphics/IMG_3894.jpeg" alt="chart2">
+  <img src="graphics/teaching1_2.jpg" alt="chart1">
+  <img src="graphics/IMG_3894_2.jpeg" alt="chart2">
   <figcaption>The Completely Hackable Amateur Radio Telescope (CHART)</figcaption>
 </figure>
 
