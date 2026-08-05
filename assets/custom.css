@@ -49,6 +49,8 @@
 }
 .photo-row figcaption {
     font-style: italic;
+    font-size: 0.9rem;
+    color: #aaaaaa;
     margin-top: 0.5rem;
 }
 @media (max-width: 800px) {
@@ -58,14 +60,15 @@
     }
 }
 
-/* Research page sections */
+/* Shared section layout: used on both the research and teaching pages */
 .hero, .intro, .project {
     max-width: 800px;
     margin: 0 auto 3rem;
     text-align: center;
 }
-.intro {
-    text-align: left;
+.intro,
+.project p {
+    text-align: justify;
 }
 .intro h2,
 .project h2 {
@@ -84,7 +87,4 @@
     font-size: 0.9rem;
     color: #aaaaaa;
     margin-top: 0.5rem;
-}
-.project p {
-    text-align: left;
 }
