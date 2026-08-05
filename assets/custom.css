@@ -12,7 +12,6 @@
     align-items: start;
     margin-top: 2rem;
 }
-
 .photo img {
     width: 300px;
     height: auto;
@@ -28,44 +27,61 @@
     .homepage {
         display: block;
     }
-
     .photo img {
         width: 250px;
     }
 }
 
 /* Side-by-side teaching photos */
-/* Side-by-side teaching photos */
 .photo-row {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    gap: 20px;
     flex-wrap: wrap;
-    margin: 1rem 0;
-}
-
-.photo-row {
-    display: flex;
-    justify-content: center;
     gap: 1rem;
     text-align: center;
+    margin: 1rem 0;
 }
-
 .photo-row img {
     width: 45%;
     max-width: 350px;
     margin: 0;
 }
-
 .photo-row figcaption {
     font-style: italic;
     margin-top: 0.5rem;
 }
-
 @media (max-width: 800px) {
-    .photo-row figure {
+    .photo-row img {
         width: 90%;
         max-width: none;
     }
+}
+
+/* Research page sections */
+.hero, .intro, .project {
+    max-width: 800px;
+    margin: 0 auto 3rem;
+    text-align: center;
+}
+.intro {
+    text-align: left;
+}
+.project h2 {
+    text-align: center;
+}
+.project figure {
+    margin: 1.5rem auto;
+}
+.project img {
+    max-width: 100%;
+    height: auto;
+}
+.project figcaption {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 0.5rem;
+}
+.project p {
+    text-align: left;
 }
