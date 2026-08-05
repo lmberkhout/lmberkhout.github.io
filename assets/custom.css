@@ -45,16 +45,17 @@
     margin: 1rem 0;
 }
 
-.photo-row figure {
-    width: 45%;
-    max-width: 350px;
-    margin: 0;
+.photo-row {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
     text-align: center;
 }
 
 .photo-row img {
-    width: 100%;
-    height: auto;
+    width: 45%;
+    max-width: 350px;
+    margin: 0;
 }
 
 .photo-row figcaption {
