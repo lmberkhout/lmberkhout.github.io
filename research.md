@@ -30,7 +30,7 @@ permalink: /research
 <section class="project">
   <h2>Canadian Hydrogen Observatory and Radio Transient Detector (CHORD)</h2>
   <figure>
-    <img src="graphics/DJI_0282.JPG" alt="CHORD" width="80%">
+    <img src="graphics/DJI_0282_2.JPG" alt="CHORD" width="80%">
     <figcaption><em>The CHORD pathfinder array with major landmarks identified. Image supplied by DRAO, HAA, the National Research Council of Canada.</em></figcaption>
   </figure>
   <p>
