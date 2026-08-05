@@ -66,10 +66,6 @@
     margin: 0 auto 3rem;
     text-align: center;
 }
-.intro,
-.project p {
-    text-align: justify;
-}
 .intro h2,
 .project h2 {
     text-align: center;
