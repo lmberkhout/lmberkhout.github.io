@@ -1,4 +1,3 @@
-
 ---
 title: /teaching-and-outreach
 nav_title: "/teaching & outreach"
